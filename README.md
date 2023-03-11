@@ -1,7 +1,7 @@
 # thinkcrypto-a_cryptonews_platform
 A Crypto News Platform which will help you to keep an Check of your Chosen Crypto. 
 
-HOME PAGE HAVING SEVERAL FEATURES LINKED AND MANY OTHER DIFFERENT FEATURES ARE LISTED/DEMONSTARATED. 
+Home page having several features linked and many other different features are Listed/Demonstrated. 
 
 <img width="1512" alt="Screenshot 2023-03-11 at 10 25 33 AM" src="https://user-images.githubusercontent.com/92184403/224465923-4bc3358e-e9c8-4bff-be49-baec79135704.png">
 <img width="1512" alt="Screenshot 2023-03-11 at 10 25 53 AM" src="https://user-images.githubusercontent.com/92184403/224465925-14630764-ec44-436b-b678-9bd0ab78f820.png">
